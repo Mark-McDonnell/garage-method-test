@@ -1,0 +1,1 @@
+# garage-method-test
